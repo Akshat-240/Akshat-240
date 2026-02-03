@@ -51,12 +51,17 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Akshat-240&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" alt="Akshat's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akshat-240&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" alt="Top Languages" />
+  <!-- Stats Card -->
+  <img src="https://github.com/Akshat-240/Akshat-240/blob/main/profile-summary-card-output/tokyonight/3-stats.svg" alt="Stats" />
+  <br/>
+  <!-- Top Languages & Productive Time -->
+  <img src="https://github.com/Akshat-240/Akshat-240/blob/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Most Commited" />
+  <img src="https://github.com/Akshat-240/Akshat-240/blob/main/profile-summary-card-output/tokyonight/4-productive-time.svg" alt="Productive Time" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Akshat-240&theme=tokyonight&hide_border=true&background=00000000" alt="GitHub Streak" />
+  <!-- Profile Details -->
+  <img src="https://github.com/Akshat-240/Akshat-240/blob/main/profile-summary-card-output/tokyonight/0-profile-details.svg" alt="Profile Details" />
 </div>
 
 <br />
