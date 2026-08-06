@@ -13,8 +13,10 @@
 
 <br />
 
-<!-- Trophies (hidden for now as they require active data to display correctly) -->
-<!-- <div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Akshat-240&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" /> </div> -->
+<!-- Trophies -->
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Akshat-240&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
+</div>
 <br/>
 
 ### 👨‍💻 About Me
@@ -52,24 +54,27 @@
 
 <div align="center">
   <!-- Stats Card -->
-  <img src="https://github.com/Akshat-240/Akshat-240/blob/main/profile-summary-card-output/tokyonight/3-stats.svg" alt="Stats" />
+  <img src="profile-summary-card-output/tokyonight/3-stats.svg" alt="Stats" />
   <br/>
   <!-- Top Languages & Productive Time -->
-  <img src="https://github.com/Akshat-240/Akshat-240/blob/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Most Commited" />
-  <img src="https://github.com/Akshat-240/Akshat-240/blob/main/profile-summary-card-output/tokyonight/4-productive-time.svg" alt="Productive Time" />
+  <img src="profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Most Commited" />
+  <img src="profile-summary-card-output/tokyonight/4-productive-time.svg" alt="Productive Time" />
 </div>
 
 <div align="center">
   <!-- Profile Details -->
-  <img src="https://github.com/Akshat-240/Akshat-240/blob/main/profile-summary-card-output/tokyonight/0-profile-details.svg" alt="Profile Details" />
+  <img src="profile-summary-card-output/tokyonight/0-profile-details.svg" alt="Profile Details" />
 </div>
 
 <br />
 
 <!-- Snake Animation -->
-<!-- Note: This image will populate AFTER the GitHub Action runs successfully for the first time. -->
 <div align="center">
-  <img src="https://github.com/Akshat-240/Akshat-240/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation will appear here after the workflow runs" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Akshat-240/Akshat-240/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Akshat-240/Akshat-240/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Akshat-240/Akshat-240/output/github-contribution-grid-snake.svg">
+  </picture>
 </div>
 
 ---
