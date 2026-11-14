@@ -61,28 +61,7 @@ I am a second-year **B.Tech Computer Science and Engineering student (Specializi
 
 <img src="assets/section-divider.svg" width="100%" alt="Section Divider" />
 
-<!-- 6. FEATURED PROJECTS -->
-### <font color="#FF2A5F">/</font> Featured Projects
-
-<div align="center">
-  <a href="https://github.com/Akshat-240?tab=repositories" target="_blank" rel="noopener noreferrer" title="AURA Brain — In Development (Personal AI Assistant)">
-    <img src="assets/project-aura.svg" width="32%" alt="AURA Brain - In Development" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/Akshat-240/SkillGap-AI" target="_blank" rel="noopener noreferrer" title="SkillGap-AI — Resume Analyzer &amp; Learning Roadmap">
-    <img src="assets/project-skillgap.svg" width="32%" alt="SkillGap-AI - Resume Analyzer" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/Akshat-240/ml-learning-journey" target="_blank" rel="noopener noreferrer" title="Exoplanet Detection — AI Astronomical Analysis">
-    <img src="assets/project-exoplanet.svg" width="32%" alt="Exoplanet Detection - AI Light Curve Analysis" />
-  </a>
-</div>
-
-<br/>
-
-<img src="assets/section-divider.svg" width="100%" alt="Section Divider" />
-
-<!-- 7. GITHUB STATISTICS -->
+<!-- 6. GITHUB STATISTICS -->
 ### <font color="#FF2A5F">/</font> GitHub Statistics
 
 <div align="center">
@@ -99,7 +78,7 @@ I am a second-year **B.Tech Computer Science and Engineering student (Specializi
 
 <img src="assets/section-divider.svg" width="100%" alt="Section Divider" />
 
-<!-- 8. MOST-USED PROGRAMMING LANGUAGES -->
+<!-- 7. MOST-USED PROGRAMMING LANGUAGES -->
 ### <font color="#FF2A5F">/</font> Most Used Languages
 
 <div align="center">
@@ -112,7 +91,7 @@ I am a second-year **B.Tech Computer Science and Engineering student (Specializi
 
 <img src="assets/section-divider.svg" width="100%" alt="Section Divider" />
 
-<!-- 9. CONTRIBUTION ACTIVITY GRAPH -->
+<!-- 8. CONTRIBUTION ACTIVITY GRAPH -->
 ### <font color="#FF2A5F">/</font> Contribution Activity
 
 <div align="center">
