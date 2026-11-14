@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 135 36" width="135" height="36">
+  <defs>
+    <linearGradient id="bgPill" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#120A21" />
+      <stop offset="100%" stop-color="#090611" />
+    </linearGradient>
+    <linearGradient id="borderPill" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#8B5CF6" stop-opacity="0.6" />
+      <stop offset="100%" stop-color="#FF2A5F" stop-opacity="0.3" />
+    </linearGradient>
+  </defs>
+  <rect x="1" y="1" width="133" height="34" rx="17" fill="url(#bgPill)" stroke="url(#borderPill)" stroke-width="1.2" />
+  <!-- Globe / Web Icon -->
+  <g transform="translate(16, 9)" stroke="#818CF8" stroke-width="1.4" fill="none">
+    <circle cx="9" cy="9" r="7.5" />
+    <path d="M 1.5 9 H 16.5" />
+    <ellipse cx="9" cy="9" rx="3.5" ry="7.5" />
+  </g>
+  <text x="44" y="22" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Inter', sans-serif" font-size="13" font-weight="600" fill="#F1F5F9" letter-spacing="0.3">Portfolio</text>
+</svg>

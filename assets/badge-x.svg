@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 145 36" width="145" height="36">
+  <defs>
+    <linearGradient id="bgPill" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#120A21" />
+      <stop offset="100%" stop-color="#090611" />
+    </linearGradient>
+    <linearGradient id="borderPill" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#8B5CF6" stop-opacity="0.5" />
+      <stop offset="100%" stop-color="#FF2A5F" stop-opacity="0.2" />
+    </linearGradient>
+  </defs>
+  <rect x="1" y="1" width="143" height="34" rx="17" fill="url(#bgPill)" stroke="url(#borderPill)" stroke-width="1.2" />
+  <!-- X (Twitter) Logo -->
+  <g transform="translate(16, 10)">
+    <path d="M 12.8 1 L 8.4 6.9 L 13.9 14 H 11.2 L 6.9 8.5 L 3.1 14 H 1.2 L 5.8 7.7 L 0.5 1 H 3.3 L 7.3 6.1 L 10.9 1 Z M 11.9 12.7 L 4.2 2.3 H 3.1 L 10.8 12.7 Z" fill="#E2E8F0" />
+  </g>
+  <text x="38" y="22" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Inter', sans-serif" font-size="13" font-weight="600" fill="#F1F5F9" letter-spacing="0.3">X (Twitter)</text>
+</svg>

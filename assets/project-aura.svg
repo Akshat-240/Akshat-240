@@ -1,0 +1,101 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 175" width="100%" height="auto">
+  <defs>
+    <linearGradient id="cardBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#11091F" />
+      <stop offset="100%" stop-color="#07040D" />
+    </linearGradient>
+    <linearGradient id="cardBorder" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#FF2A5F" stop-opacity="0.6" />
+      <stop offset="50%" stop-color="#351C54" />
+      <stop offset="100%" stop-color="#8B5CF6" stop-opacity="0.4" />
+    </linearGradient>
+    <filter id="auraGlow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="2" result="blur" />
+      <feComposite in="SourceGraphic" in2="blur" operator="over" />
+    </filter>
+  </defs>
+
+  <style>
+    .proj-title {
+      font-family: 'Segoe UI', -apple-system, BlinkMacSystemFont, 'Inter', sans-serif;
+      font-size: 15.5px;
+      font-weight: 700;
+      fill: #FFFFFF;
+    }
+    .proj-desc {
+      font-family: 'Segoe UI', -apple-system, BlinkMacSystemFont, 'Inter', sans-serif;
+      font-size: 12px;
+      line-height: 1.45;
+      fill: #94A3B8;
+    }
+    .proj-tag {
+      font-family: 'SF Mono', 'Fira Code', Consolas, monospace;
+      font-size: 10.5px;
+      font-weight: 500;
+      fill: #CBD5E1;
+    }
+    .badge-dev {
+      font-family: 'Segoe UI', -apple-system, BlinkMacSystemFont, 'Inter', sans-serif;
+      font-size: 8.5px;
+      font-weight: 700;
+      fill: #FFA4B8;
+      letter-spacing: 0.4px;
+    }
+  </style>
+
+  <!-- Card Body -->
+  <rect x="2" y="2" width="296" height="171" rx="14" fill="url(#cardBg)" stroke="url(#cardBorder)" stroke-width="1.2" />
+
+  <!-- Top Header Row -->
+  <g transform="translate(18, 20)">
+    <!-- Glowing Brain Icon Container -->
+    <rect x="0" y="0" width="34" height="34" rx="8" fill="#1C0D26" stroke="#FF2A5F" stroke-width="0.8" stroke-opacity="0.4" />
+    <!-- Neural Brain Vector Icon -->
+    <g transform="translate(6, 6)" stroke="#FF2A5F" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round" fill="none" filter="url(#auraGlow)">
+      <path d="M 11 3 C 8 3 6 5 6 7 C 4 7 3 9 3 11 C 3 13 4 14.5 5 15 C 4 16.5 5 19 8 19 L 11 19" />
+      <path d="M 11 3 C 14 3 16 5 16 7 C 18 7 19 9 19 11 C 19 13 18 14.5 17 15 C 18 16.5 17 19 14 19 L 11 19" />
+      <path d="M 11 3 L 11 19" stroke="#A855F7" stroke-width="1.2" />
+      <line x1="6" y1="11" x2="11" y2="11" stroke="#A855F7" stroke-width="1" />
+      <line x1="16" y1="11" x2="11" y2="11" stroke="#A855F7" stroke-width="1" />
+    </g>
+
+    <!-- Title -->
+    <text x="42" y="22" class="proj-title">AURA Brain</text>
+
+    <!-- In Development Badge -->
+    <g transform="translate(130, 7)">
+      <rect x="0" y="0" width="104" height="20" rx="10" fill="#200B18" stroke="#FF2A5F" stroke-width="0.8" stroke-opacity="0.8" />
+      <circle cx="8" cy="10" r="2.8" fill="#FF2A5F" filter="url(#auraGlow)" />
+      <text x="16" y="14" class="badge-dev">IN DEVELOPMENT</text>
+    </g>
+
+    <!-- External Link Arrow Icon -->
+    <g transform="translate(244, 7)" stroke="#71717A" stroke-width="1.4" fill="none">
+      <path d="M 0 12 L 12 0" />
+      <polyline points="4,0 12,0 12,8" />
+    </g>
+  </g>
+
+  <!-- Description -->
+  <g transform="translate(18, 74)">
+    <text class="proj-desc">
+      <tspan x="0" y="0">Personal AI assistant for daily digest,</tspan>
+      <tspan x="0" y="18">planning, and personal productivity.</tspan>
+    </text>
+  </g>
+
+  <!-- Tag Pills -->
+  <g transform="translate(18, 128)">
+    <!-- Tag 1: Python -->
+    <rect x="0" y="0" width="62" height="24" rx="6" fill="#160C28" stroke="#331A52" stroke-width="1" />
+    <text x="12" y="16" class="proj-tag">Python</text>
+
+    <!-- Tag 2: AI/LLM -->
+    <rect x="70" y="0" width="68" height="24" rx="6" fill="#160C28" stroke="#331A52" stroke-width="1" />
+    <text x="11" y="16" class="proj-tag">AI/LLM</text>
+
+    <!-- Tag 3: Backend -->
+    <rect x="146" y="0" width="70" height="24" rx="6" fill="#160C28" stroke="#331A52" stroke-width="1" />
+    <text x="11" y="16" class="proj-tag">Backend</text>
+  </g>
+</svg>

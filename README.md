@@ -1,117 +1,138 @@
-<!-- Header Section -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hi,%20I'm%20Akshat%20👋&fontSize=70&fontAlignY=35&animation=twinkling&desc=Cloud%20&%20DevOps%20Enthusiast%20|%20Learning%20AI/ML&descAlignY=55&descAlign=50" alt="Header" />
-</div>
+<!-- ================================================================= -->
+<!-- CRIMSON ECLIPSE × SUBTLE NEURAL INTERFACE PORTFOLIO README -->
+<!-- ================================================================= -->
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/akshat-nigam-240an" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn" />
+
+  <!-- 1. CINEMATIC BANNER WITH INTRODUCTION -->
+  <a href="https://github.com/Akshat-240">
+    <img src="assets/banner.svg" alt="Akshat Nigam — B.Tech CSE (AI &amp; ML) | Crimson Eclipse Banner" width="100%" />
   </a>
-  <a href="mailto:akshat.nigam@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836.svg?style=for-the-badge&logo=Gmail&logoColor=white" alt="Email" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=Akshat-240&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
-</div>
 
-<br/>
+  <br/><br/>
 
-<!-- About Section -->
-<div align="center">
-  <h3>⚡ About Me</h3>
-  <p>
-    I am a passionate <b>Cloud Computing & Automation</b> enthusiast with a growing focus on <b>AI & Machine Learning</b>. <br/>
-    I love building highly available, secure, and automated infrastructures.
+  <!-- 2. SOCIAL LINKS ROW -->
+  <p align="center">
+    <a href="https://github.com/Akshat-240?tab=repositories" target="_blank" rel="noopener noreferrer">
+      <img src="assets/badge-portfolio.svg" height="34" alt="Portfolio" />
+    </a>
+    &nbsp;
+    <a href="https://www.linkedin.com/in/akshat-nigam-240an" target="_blank" rel="noopener noreferrer">
+      <img src="assets/badge-linkedin.svg" height="34" alt="LinkedIn" />
+    </a>
+    &nbsp;
+    <a href="mailto:nigamakshat2406@gmail.com">
+      <img src="assets/badge-email.svg" height="34" alt="Email" />
+    </a>
+    &nbsp;
+    <img src="assets/badge-resume.svg" height="34" alt="Resume Coming Soon" title="Resume Coming Soon" />
   </p>
-  <i>"I can deploy a cluster faster than I can decide what to eat." 🍕</i>
+
 </div>
 
 <br/>
 
-<!-- GitHub Trophies -->
+<img src="assets/section-divider.svg" width="100%" alt="Section Divider" />
+
+<!-- 3. ABOUT ME -->
+### <font color="#FF2A5F">/</font> About Me
+
+I am a second-year **B.Tech Computer Science and Engineering student (Specializing in AI &amp; ML)** passionate about architecting intelligent systems, cloud-native infrastructures, and solving real-world challenges through rigorous computer science engineering and experimentation.
+
+<br/>
+
+<!-- 4. TECHNICAL FOCUS AREAS -->
 <div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Akshat-240&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="Trophies" />
+  <img src="assets/focus-areas.svg" width="100%" alt="Technical Focus: AI/ML, Cloud &amp; DevOps, Systems &amp; CS, Research" />
+</div>
+
+<br/>
+
+<img src="assets/section-divider.svg" width="100%" alt="Section Divider" />
+
+<!-- 5. TECHNOLOGY STACK -->
+### <font color="#FF2A5F">/</font> Tech Stack
+
+<div align="center">
+  <img src="assets/tech-stack.svg" width="100%" alt="Technology Stack: Python, C++, Jupyter, PyTorch, TensorFlow, Azure, Docker, PostgreSQL, Linux, Git &amp; GitHub" />
+</div>
+
+<br/>
+
+<img src="assets/section-divider.svg" width="100%" alt="Section Divider" />
+
+<!-- 6. FEATURED PROJECTS -->
+### <font color="#FF2A5F">/</font> Featured Projects
+
+<div align="center">
+  <a href="https://github.com/Akshat-240?tab=repositories" target="_blank" rel="noopener noreferrer" title="AURA Brain — In Development (Personal AI Assistant)">
+    <img src="assets/project-aura.svg" width="32%" alt="AURA Brain - In Development" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/Akshat-240/SkillGap-AI" target="_blank" rel="noopener noreferrer" title="SkillGap-AI — Resume Analyzer &amp; Learning Roadmap">
+    <img src="assets/project-skillgap.svg" width="32%" alt="SkillGap-AI - Resume Analyzer" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/Akshat-240/ml-learning-journey" target="_blank" rel="noopener noreferrer" title="Exoplanet Detection — AI Astronomical Analysis">
+    <img src="assets/project-exoplanet.svg" width="32%" alt="Exoplanet Detection - AI Light Curve Analysis" />
   </a>
 </div>
 
 <br/>
 
----
+<img src="assets/section-divider.svg" width="100%" alt="Section Divider" />
 
-### 🚀 Tech Stack & Tools
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center"><b>Cloud & DevOps</b></td>
-      <td align="center"><b>Programming</b></td>
-      <td align="center"><b>Tools & OS</b></td>
-    </tr>
-    <tr>
-      <td align="center">
-        <img src="https://img.shields.io/badge/Microsoft%20Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure" />
-        <br/><br/>
-        <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-        <br/><br/>
-        <img src="https://img.shields.io/badge/Nutanix-00457C?style=for-the-badge&logo=nutanix&logoColor=white" alt="Nutanix" />
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-        <br/><br/>
-        <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
-        <br/><br/>
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-        <br/><br/>
-        <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-        <br/><br/>
-        <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-        <br/><br/>
-        <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-      </td>
-    </tr>
-  </table>
-</div>
-
----
-
-### 📊 GitHub Analytics
+<!-- 7. GITHUB STATISTICS -->
+### <font color="#FF2A5F">/</font> GitHub Statistics
 
 <div align="center">
-  <img src="profile-summary-card-output/tokyonight/3-stats.svg" width="48%" alt="Stats" />
-  <img src="profile-summary-card-output/tokyonight/0-profile-details.svg" width="48%" alt="Profile Details" />
-</div>
-
-<div align="center">
-  <img src="profile-summary-card-output/tokyonight/2-most-commit-language.svg" width="48%" alt="Most Commited" />
-  <img src="profile-summary-card-output/tokyonight/4-productive-time.svg" width="48%" alt="Productive Time" />
+  <a href="https://github.com/Akshat-240">
+    <img src="https://github-stats-extended.vercel.app/api?username=Akshat-240&amp;show_icons=true&amp;bg_color=050609&amp;border_color=2D1E4A&amp;title_color=FF2A5F&amp;text_color=94A3B8&amp;icon_color=FF2A5F&amp;border_radius=12" width="49%" alt="Akshat's Real-time GitHub Stats" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/Akshat-240">
+    <img src="https://streak-stats.demolab.com/?user=Akshat-240&amp;theme=dark&amp;background=050609&amp;border=2D1E4A&amp;stroke=FF2A5F&amp;ring=FF2A5F&amp;fire=FF2A5F&amp;currStreakNum=FF2A5F&amp;sideNums=A855F7&amp;currStreakLabel=FF2A5F&amp;sideLabels=94A3B8&amp;dates=64748B&amp;border_radius=12" width="49%" alt="Akshat's GitHub Streak Statistics" />
+  </a>
 </div>
 
 <br/>
 
-<!-- Snake Animation Footer -->
+<img src="assets/section-divider.svg" width="100%" alt="Section Divider" />
+
+<!-- 8. MOST-USED PROGRAMMING LANGUAGES -->
+### <font color="#FF2A5F">/</font> Most Used Languages
+
 <div align="center">
-  <h4>🐍 Contributions Snake</h4>
+  <a href="https://github.com/Akshat-240">
+    <img src="https://github-stats-extended.vercel.app/api/top-langs?username=Akshat-240&amp;layout=compact&amp;bg_color=050609&amp;border_color=2D1E4A&amp;title_color=FF2A5F&amp;text_color=94A3B8&amp;border_radius=12" width="70%" alt="Top Programming Languages" />
+  </a>
+</div>
+
+<br/>
+
+<img src="assets/section-divider.svg" width="100%" alt="Section Divider" />
+
+<!-- 9. CONTRIBUTION ACTIVITY GRAPH -->
+### <font color="#FF2A5F">/</font> Contribution Activity
+
+<div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Akshat-240/Akshat-240/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Akshat-240/Akshat-240/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Akshat-240/Akshat-240/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub Contribution Grid Snake Animation" src="https://raw.githubusercontent.com/Akshat-240/Akshat-240/output/github-contribution-grid-snake-dark.svg" width="100%" />
   </picture>
 </div>
 
----
-
-### 📂 Featured Projects
-
-| 🌟 Project | 📝 Description | 🛠️ Tech Stack |
-| :--- | :--- | :--- |
-| **[SkillGap-AI](https://github.com/Akshat-240/SkillGap-AI)** | AI-powered resume and job description matching system. | 🐍 Python, AI/ML |
-| **[Secure-college-portal](https://github.com/Akshat-240/Secure-college-portal)** | Secure web-based authentication system for college portals. | 🔐 HTML, Security |
-| **[Grocery Management](https://github.com/Akshat-240/Grocery_Management_System_Project_62)** | A comprehensive C-based system for managing grocery inventories. | 🛒 C, Management |
-| **[Astreal](https://github.com/Akshat-240/Astreal)** | Original creative development project showcasing robust architecture. | 🌟 Public |
+<br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" alt="Footer" />
+  <img src="profile-summary-card-output/aura_dark/0-profile-details.svg" width="100%" alt="Contribution Calendar and Commit Breakdown" />
+</div>
+
+<br/>
+
+<img src="assets/section-divider.svg" width="100%" alt="Section Divider" />
+
+<div align="center">
+  <sub>Designed with the <b>Crimson Eclipse × Subtle Neural Interface</b> aesthetic • Built for <b>Akshat-240</b></sub>
 </div>
